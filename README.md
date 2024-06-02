@@ -1,6 +1,6 @@
 ## ML/DL/NLP /CV/Time Series/ Reinforcement Learning/ Gen- AI
 
-# SQL - MS SQL SERVEr 2019
+# SQL - MS SQL SERVER 2019
 
 
 # Link1 - : https://www.youtube.com/@krishnaik06/playlists
