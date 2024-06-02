@@ -1,9 +1,9 @@
-##ML/DL/NLP /CV/Time Series/ Reinforcement Learning/ Gen- AI
+## ML/DL/NLP /CV/Time Series/ Reinforcement Learning/ Gen- AI
 
-#SQL - MS SQL SERVEr 2019
+# SQL - MS SQL SERVEr 2019
 
 
-#Link1 - : https://www.youtube.com/@krishnaik06/playlists
+# Link1 - : https://www.youtube.com/@krishnaik06/playlists
 
 ![image](https://github.com/Siddhartha082/YouTube_Link-ML-DL-NLP-Time_series-CV-GenAI-Project-Course-Free/assets/110781138/cabc7e89-73bb-428b-b161-cd37f9731fd0)
 
